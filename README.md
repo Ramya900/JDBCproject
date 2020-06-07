@@ -9,4 +9,3 @@ InsertingData.java file used to insert the data in your table</br>
 SelectQuery.java file used to retrieve/read the data from the table</br>
 UpdateAndDelete.java file used to update the records as well as delete the records</br></br></br>
 
-Good Luck Happy coding
